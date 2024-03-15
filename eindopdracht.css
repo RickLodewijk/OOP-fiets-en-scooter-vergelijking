@@ -1,0 +1,42 @@
+*{
+    background-color: rgb(65, 65, 65);
+    color: white;
+    
+}
+fieldset {
+    border-color: white;
+    margin-left: 100px;
+    margin-right: auto;
+    width: 400px;
+    margin-top: 10px;
+}
+.balk {
+    background-color: white;
+    color: black;
+}
+.knop {
+    background-color: orange;
+    margin-left: 100px ;
+    margin-top: 10px;
+}
+.reisadvies{
+    background-color: green;
+    margin-left:100px;
+    width: 400px;
+}
+.Groen {
+    background-color: green;
+    width: 400px;
+}
+.antwoord{
+    background-color: rgb(231, 0, 0);
+    margin-left:100px;
+    width: 400px;
+}
+.een{
+    background-color: orange;
+    margin-left: 100px;
+    width:400px;
+    margin-top:20px;
+    font-size: larger;
+}
